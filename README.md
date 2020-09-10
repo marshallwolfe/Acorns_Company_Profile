@@ -4,7 +4,7 @@
 
 ## Overview and Origin
 
-![Acorns](acornsx400.jpg)
+![Acorns](Images/acornsx400.jpg)
 
 [https://www.acorns.com](https://www.acorns.com)
 
